@@ -1,0 +1,32 @@
+;
+; TestMdlDriver.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=
+ClassGuid={7CC63EE1-8ABF-4946-A847-37D52C7BA103}
+Provider="StormshieldProvider"
+DriverVer=05/07/2018,1.0.0.0
+CatalogFile=TestMdlDriver.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+
+
+[Manufacturer]
+%ManufacturerName%=Standard,NT$ARCH$
+
+[Standard.NT$ARCH$]
+
+
+[Strings]
+ManufacturerName=""
+ClassName=""
+DiskName="TestMdlDriver Source Disk"

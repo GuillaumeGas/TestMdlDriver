@@ -1,0 +1,18 @@
+﻿  Building 'TestMdlDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\TestMdlDriver.inf
+  Stamping [Version] section with DriverVer=07/06/2018,10.27.13.270
+cl : Command line warning D9002: ignoring unknown option '/Qspectre'
+  main.c
+  TestMdlDriver.vcxproj -> C:\Users\ggas\Documents\Visual Studio\Visual Studio 2015\Projects\TestMdlDriver\x64\Debug\TestMdlDriver.sys
+  TestMdlDriver.vcxproj -> C:\Users\ggas\Documents\Visual Studio\Visual Studio 2015\Projects\TestMdlDriver\x64\Debug\TestMdlDriver.pdb (Full PDB)
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ggas\Documents\Visual Studio\Visual Studio 2015\Projects\TestMdlDriver\x64\Debug\TestMdlDriver\testmdldriver.cat
